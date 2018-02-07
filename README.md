@@ -16,6 +16,6 @@ To set up a local install of Habitica for development and testing on various pla
 
 Contact
 FOR ANY Questions please send it to my email >> 
-
+name: Nabras Al Balushi
 nalbalushi2015@my.fit.edu
 .
